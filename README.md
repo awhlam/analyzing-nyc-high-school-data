@@ -1,4 +1,4 @@
-# analyzing-nyc-high-school-data
+# Analyzing New York City High School Data
 Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for analyzing SAT scores from New York City high schools as part of [Dataquest's Data Cleaning](https://www.dataquest.io/course/data-exploration) guided project.
 
 ## Release History
